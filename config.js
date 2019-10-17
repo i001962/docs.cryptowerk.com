@@ -28,14 +28,14 @@ const config = {
 					"/index",
 					"/quickstart",
 					"/tutorials",
-					"/faq"
-						],
+					"/faq",
+					"/support"
+				],
 		"links": [
 			{ "text": "App Console", "link": "https://developers.cryptowerk.com/platform/portal/index.html"},
 			{ "text": "API Explorer", "link": "https://developers.cryptowerk.com/platform/portal/swagger.html"},
-			{ "text": "User Guide", "link": "https://cryptowerk.sharepoint.com/:p:/s/Portal/Ecg6fAmzAI5NvpqE2Vaf3ukBVHDYp8So33HZwQKlslW6hg?e=UO9LMs"},
-			{ "text": "Cryptowerk.com", "link": "https://cryptowerk.com"},
-		],
+				{ "text": "Cryptowerk.com", "link": "https://cryptowerk.com"},
+		  { "text": "Git Repository", "link": "https://github.com/cryptowerk"}],
 		"frontline": false,  //KMM what does this do??
 		"ignoreIndex": false,
 	},
