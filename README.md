@@ -82,3 +82,8 @@ Canonical URLs are generated automatically.
 ## ☁️ Deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cryptowerk/docs.cryptowerk.com)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fi001962%2Fdocs.cryptowerk.com.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fi001962%2Fdocs.cryptowerk.com?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fi001962%2Fdocs.cryptowerk.com.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fi001962%2Fdocs.cryptowerk.com?ref=badge_large)
